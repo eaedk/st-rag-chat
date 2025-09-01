@@ -1,4 +1,3 @@
-```markdown
 # 📚 Streamlit RAG — Select Docs or Search All
 
 ![Add documents](assets/imgs/doc_added.png)
