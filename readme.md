@@ -104,7 +104,7 @@ streamlit run app.py
 4. Expand **Sources used** to see what passages grounded the answer.
    ![Sources used](assets/imgs/source_used.png)
 
-> Works with any `init_chat_model` provider; example with o4-mini:
+> Works with any `init_chat_model` model provided by OpenAI (and can be extented to any model's provide); example with o4-mini:
 > ![Chat with o4-mini](assets/imgs/chat_with_o4-mini.png)
 
 If the answer isn’t in the retrieved context, the model responds: **`I don't know`**.
